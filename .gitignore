@@ -1,0 +1,6 @@
+# Fichiers de checkpoint pour les notebooks (générés automatiquement)
+.ipynb_checkpoints/
+
+# Fichiers temporaires ou de cache de Python et de l'IDE
+__pycache__/
+.vscode/
